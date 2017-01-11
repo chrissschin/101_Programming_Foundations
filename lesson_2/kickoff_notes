@@ -1,0 +1,8 @@
+Psuedo code
+- write psuedo code, then test if it works
+- Don't write whole application before writing some code.
+
+
+Calculator
+- all inputs are strings
+- inputs create a \n after capturing

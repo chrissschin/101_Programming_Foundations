@@ -1,0 +1,23 @@
+# snake casing
+
+this_is_snake_cased.rb
+
+# method
+
+def this_a_method
+  #something
+end
+
+# when using do..end prefer {} if code fits one line
+
+[1,2,3].each do |i|
+  # do seomthing
+end
+
+[1,2,3].each { |i| #do something }
+
+
+# classes will be using CamelCase
+
+class myClass
+end
